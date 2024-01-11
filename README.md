@@ -1,4 +1,4 @@
-# MyStuffEnygma - Simulação da Máquina Enigma
+# MyStuffEnygma -  Enigma Machine Simulation
 
 Enygma - Enigma Machine Simulation
 This project is a simulation of the Enigma Machine, a cryptographic device used by Nazi Germany during World War II. The code is implemented in Java and employs rotor logic to perform encryption and decryption of messages.
