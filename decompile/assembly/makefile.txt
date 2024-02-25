@@ -1,0 +1,3 @@
+nasm -f elf64 hello.asm
+ld -o hello.exe hello.o
+hello.exe 
